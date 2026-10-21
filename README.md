@@ -19,10 +19,6 @@ Founder of [Agentimus](https://www.agentimus.io).
 - **Machine consciousness:** what current theories (global workspace, integrated information, higher-order theories) would predict for artificial systems, and what, if anything, could count as evidence
 - **Cheaper inference:** getting the same quality for a fraction of the compute
 
-## Tools
-
-TypeScript, Node.js, Next.js, OpenAI and Anthropic APIs, ElevenLabs, Twilio, n8n.
-
 ## Elsewhere
 
 [Medium](https://medium.com/@abdul-m) · [Substack](https://substack.com/@abdu1m) · [LinkedIn](https://www.linkedin.com/in/abdulm-ai)
