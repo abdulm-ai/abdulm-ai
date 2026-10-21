@@ -7,6 +7,7 @@ Founder of [Agentimus](https://www.agentimus.io).
 ## Projects
 
 - **[agent-harness](https://github.com/abdulm-ai/agent-harness):** a small, readable agent loop in TypeScript with the production parts: typed tools with model-actionable errors, idempotent side effects, approval gates, step/token/time budgets with a handoff, schema and domain checks on the output, confidence routing from real signals, and replayable traces. Runs on OpenAI or Anthropic, with a 12-case eval scored per field.
+- **[context-graph](https://github.com/abdulm-ai/context-graph):** a Claude Code plugin that records a session as a graph and, after `/compact` or `/clear`, rebuilds the context by calculation instead of a model-written summary: Dijkstra on `-log p` edge weights for relevance (with heat diffusion as the alternative), exponential decay with rehearsal, an exact knapsack under a token budget, and constraints pinned word for word. Benchmarked against `/compact` on planted facts, token cost and the next task.
 
 ## Areas
 
