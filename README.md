@@ -4,6 +4,10 @@ AI engineer and researcher, working across the stack from neural network interna
 
 Founder of [Agentimus](https://www.agentimus.io).
 
+## Projects
+
+- **[agent-harness](https://github.com/abdulm-ai/agent-harness):** a small, readable agent loop in TypeScript with the production parts: typed tools with model-actionable errors, idempotent side effects, approval gates, step/token/time budgets with a handoff, schema and domain checks on the output, confidence routing from real signals, and replayable traces. Runs on OpenAI or Anthropic, with a 12-case eval scored per field.
+
 ## Areas
 
 - **Deep learning:** neural network architectures, transformers and attention, embeddings and representation learning, optimisation and training dynamics
