@@ -1,22 +1,21 @@
 # Abdul M.
 
-I build AI that does the repetitive work in a business: automations that connect your tools, AI agents that read emails and documents and act on them, and AI employees that cover a whole role, like a front desk or a sales assistant.
+AI engineer. I build LLM systems that have to work outside a demo: tool-using agents, structured extraction, retrieval, voice agents, and the evals, tracing and guardrails that keep them reliable in production.
 
-I run [Agentimus](https://www.agentimus.io), where we build these for clinics, trades, rental companies, estate agents and other growing businesses.
+Founder of [Agentimus](https://www.agentimus.io).
 
-## What's here
+## What I work on
 
-Working demos of the kind of systems I build. Each one runs, explains itself, and shows what it costs to run.
+- **Agents:** tool design, planning loops, state and retries, idempotent side effects, human approval on risky actions
+- **Structured outputs:** schema-constrained extraction, deterministic validation, self-correction loops
+- **Retrieval:** chunking strategy, hybrid search, reranking, answers grounded in cited sources
+- **Voice:** realtime speech pipelines, turn-taking, latency budgets, telephony
+- **Reliability:** eval sets, regression tests for prompt and model changes, tracing, cost and latency tracking
 
-*First projects coming soon.*
+## Tools
 
-## What I work with
+TypeScript, Node.js, Next.js, OpenAI and Anthropic APIs, ElevenLabs, Twilio, n8n.
 
-n8n, Make and Zapier for automations. OpenAI and Anthropic models for agents. Twilio and ElevenLabs for voice. WhatsApp Business, HubSpot, GoHighLevel, Google Workspace and whatever else a business already runs on.
+## Elsewhere
 
-## Find me
-
-- Website: [agentimus.io](https://www.agentimus.io)
-- LinkedIn: [linkedin.com/in/abdulm-ai](https://www.linkedin.com/in/abdulm-ai)
-- Articles: [Medium](https://medium.com/@abdulmuhaymim) and [Substack](https://substack.com/@abdu1m)
-- Book a free 15-minute audit: [calendly.com/agentimus/15-minute-free-audit](https://calendly.com/agentimus/15-minute-free-audit)
+[Medium](https://medium.com/@abdul-m) · [Substack](https://substack.com/@abdu1m) · [LinkedIn](https://www.linkedin.com/in/abdulm-ai)
