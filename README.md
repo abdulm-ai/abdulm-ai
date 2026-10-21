@@ -1,16 +1,23 @@
 # Abdul M.
 
-AI engineer. I build LLM systems that have to work outside a demo: tool-using agents, structured extraction, retrieval, voice agents, and the evals, tracing and guardrails that keep them reliable in production.
+AI engineer working across the stack, from neural network internals to LLM systems in production: deep learning, transformers, agents, retrieval, voice, and the evals and inference engineering that make them reliable and cheap to run.
 
 Founder of [Agentimus](https://www.agentimus.io).
 
-## What I work on
+## Areas
 
+- **Deep learning:** neural network architectures, transformers and attention, embeddings and representation learning, optimisation and training dynamics
+- **LLMs:** pre-training and fine-tuning (LoRA, QLoRA), instruction tuning, RLHF and DPO, tokenisation, context length, structured and constrained decoding
+- **Inference efficiency:** quantisation, distillation, speculative decoding, KV-cache reuse, batching, prompt caching, routing between small and large models
 - **Agents:** tool design, planning loops, state and retries, idempotent side effects, human approval on risky actions
-- **Structured outputs:** schema-constrained extraction, deterministic validation, self-correction loops
-- **Retrieval:** chunking strategy, hybrid search, reranking, answers grounded in cited sources
+- **Retrieval:** chunking, hybrid search, reranking, answers grounded in cited sources
 - **Voice:** realtime speech pipelines, turn-taking, latency budgets, telephony
 - **Reliability:** eval sets, regression tests for prompt and model changes, tracing, cost and latency tracking
+
+## Interests
+
+- **Machine consciousness:** what current theories (global workspace, integrated information, higher-order theories) would predict for artificial systems, and what, if anything, could count as evidence
+- **Cheaper inference:** getting the same quality for a fraction of the compute
 
 ## Tools
 
