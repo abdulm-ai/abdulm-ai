@@ -1,6 +1,6 @@
 # Abdul M.
 
-AI engineer working across the stack, from neural network internals to LLM systems in production: deep learning, transformers, agents, retrieval, voice, and the evals and inference engineering that make them reliable and cheap to run.
+AI engineer and researcher, working across the stack from neural network internals to LLM systems in production: deep learning, transformers, agents, retrieval, voice, and the evals and inference engineering that make them reliable and cheap to run.
 
 Founder of [Agentimus](https://www.agentimus.io).
 
@@ -14,7 +14,7 @@ Founder of [Agentimus](https://www.agentimus.io).
 - **Voice:** realtime speech pipelines, turn-taking, latency budgets, telephony
 - **Reliability:** eval sets, regression tests for prompt and model changes, tracing, cost and latency tracking
 
-## Interests
+## Research interests
 
 - **Machine consciousness:** what current theories (global workspace, integrated information, higher-order theories) would predict for artificial systems, and what, if anything, could count as evidence
 - **Cheaper inference:** getting the same quality for a fraction of the compute
