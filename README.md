@@ -8,6 +8,7 @@ Founder of [Agentimus](https://www.agentimus.io).
 
 - **[agent-harness](https://github.com/abdulm-ai/agent-harness):** a small, readable agent loop in TypeScript with the production parts: typed tools with model-actionable errors, idempotent side effects, approval gates, step/token/time budgets with a handoff, schema and domain checks on the output, confidence routing from real signals, and replayable traces. Runs on OpenAI or Anthropic, with a 12-case eval scored per field.
 - **[context-graph](https://github.com/abdulm-ai/context-graph):** a Claude Code plugin that records a session as a graph and, after `/compact` or `/clear`, rebuilds the context by calculation instead of a model-written summary: Dijkstra on `-log p` edge weights for relevance (with heat diffusion as the alternative), exponential decay with rehearsal, an exact knapsack under a token budget, and constraints pinned word for word. Benchmarked against `/compact` on planted facts, token cost and the next task.
+- **[endless-learner](https://github.com/abdulm-ai/endless-learner):** a game agent that learns from its own failures and trains for days on a laptop CPU, with the network, backprop, Adam and Double DQN written from scratch on NumPy. It has a solvable-level generator with no top tier, a death bank, prioritised replay, an endless curriculum, and continual backprop against plasticity loss. 226M steps and 15 ablation runs measured which of those helped: replaying old tiers mattered most, and two of the failure tricks made it worse.
 
 ## Areas
 
